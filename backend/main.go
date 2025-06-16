@@ -9,3 +9,5 @@ func main() {
 }
 
 // This is a simple Go program that prints "Hello, World!" to the console.
+//test
+// It serves as a basic example of a Go application structure.
