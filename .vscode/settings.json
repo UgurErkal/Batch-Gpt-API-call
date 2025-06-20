@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "test",
+            "database": "${workspaceFolder:Batch-Gpt-API-call}/backend/db/Data.sqlite"
+        }
+    ]
+}
